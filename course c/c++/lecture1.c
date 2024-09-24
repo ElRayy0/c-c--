@@ -1,8 +1,3 @@
-// this is a comment 
-/* this is also a comment */
-
-/* this is a header, a header contains description
- of the resources provided by a library */
 
 #include <stdio.h>
 int main(){ 
